@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\tonha\Desktop\Python_Web_fullstack\DJANGO_COURSE_2.xx\DJANGO_COURSE_2.xx\18-Django_Level_Five\learning_users\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
